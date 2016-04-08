@@ -49,6 +49,11 @@ public:
     }
 };
 
+void Test_FunAgain()
+{
+    
+}
+
 int main(int argc, const char * argv[])
 {
     Solution* pSol = new Solution;
